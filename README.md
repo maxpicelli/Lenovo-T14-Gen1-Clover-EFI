@@ -11,8 +11,8 @@ git clone https://github.com/maxpicelli/Lenovo-T14-Gen1-Clover-EFI.git
 - Modelo: Lenovo ThinkPad T14 Gen1 (Intel)
 - CPU: Intel Core i5-10510U (Comet Lake)
 - GPU: Intel UHD Graphics 620/630 (iGPU)
-- RAM: [preencher]
-- Armazenamento: [preencher]
+- RAM: 16 GB
+- Armazenamento: 1 TB NVMe
 - Wi-Fi/Bluetooth: Intel AX210 (AirportItlwm + IntelBluetoothFirmware)
 - Ethernet: Intel I219-V (IntelMausi)
 - Audio: Realtek ALC257 (AppleALC)
