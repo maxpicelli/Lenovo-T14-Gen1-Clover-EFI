@@ -2,15 +2,20 @@
 
 EFI baseada em Clover para ThinkPad T14 Gen1 (Intel).
 
+## Clone
+```bash
+git clone https://github.com/maxpicelli/Lenovo-T14-Gen1-Clover-EFI.git
+```
+
 ## Hardware (este setup)
 - Modelo: Lenovo ThinkPad T14 Gen1 (Intel)
-- CPU: Intel 10th Gen Intel Core i5-10510U(Comet Lake-U) [preencher modelo exato]
-- GPU: Intel UHD (UHD 620)
+- CPU: Intel Core i5-10510U (Comet Lake)
+- GPU: Intel UHD Graphics 620/630 (iGPU)
 - RAM: [preencher]
 - Armazenamento: [preencher]
-- Wi-Fi/Bluetooth: Intel (AirportItlwm + IntelBluetoothFirmware)
-- Ethernet: Intel (IntelMausi)
-- Audio: AppleALC
+- Wi-Fi/Bluetooth: Intel AX210 (AirportItlwm + IntelBluetoothFirmware)
+- Ethernet: Intel I219-V (IntelMausi)
+- Audio: Realtek ALC257 (AppleALC)
 - Leitor de cartao: Realtek (RealtekCardReader)
 - Thunderbolt: SSDT-TBJHL62 (se aplicavel)
 
@@ -44,7 +49,4 @@ EFI baseada em Clover para ThinkPad T14 Gen1 (Intel).
 - Troque SMBIOS/seriais antes de usar.
 - Ajuste mapas de USB e SSDTs conforme seu hardware.
 
-## Status
-- macOS testado: [preencher]
-- Funciona: [preencher]
-- Nao testado: [preencher]
+
