@@ -4,8 +4,8 @@ EFI baseada em Clover para ThinkPad T14 Gen1 (Intel).
 
 ## Hardware (este setup)
 - Modelo: Lenovo ThinkPad T14 Gen1 (Intel)
-- CPU: Intel 10th Gen (Comet Lake-U) [preencher modelo exato]
-- GPU: Intel UHD (iGPU)
+- CPU: Intel 10th Gen Intel Core i5-10510U(Comet Lake-U) [preencher modelo exato]
+- GPU: Intel UHD (UHD 620)
 - RAM: [preencher]
 - Armazenamento: [preencher]
 - Wi-Fi/Bluetooth: Intel (AirportItlwm + IntelBluetoothFirmware)
